@@ -42,8 +42,6 @@ Deploy your Flash briefing skill in minutes using Rocket chat and broadcast mess
 
 * Then give your **Channel Name**, and click on **Create**.
 
-![createchannelscreenshot](https://user-images.githubusercontent.com/41849970/59964425-095a9680-951e-11e9-8ecc-0a5020db89d9.png)
-
 ### Creating Lambda Fucntion
 
 * Go To [Lambda Management Console](https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions)
